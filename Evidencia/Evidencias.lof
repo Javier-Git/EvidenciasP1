@@ -1,0 +1,22 @@
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Acceso a contenedor virtual por IP}}{1}{figure.caption.5}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Acceso a contenedor virtual por dominio}}{2}{figure.caption.7}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Restringir acceso al recurso por direcci\IeC {\'o}n IP del cliente}}{2}{figure.caption.9}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Restringir acceso al recurso por segmento de red}}{3}{figure.caption.11}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Restringir acceso al recurso por nombre de usuario (grupo de usuarios)/clave de acceso}}{3}{figure.caption.13}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Configuraci\IeC {\'o}n de puerto de operaci\IeC {\'o}n}}{4}{figure.caption.16}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Servidor de aplicaci\IeC {\'o}n utilizando el protocolo HTTPS}}{5}{figure.caption.19}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Definici\IeC {\'o}n de certificados /llaves de operaci\IeC {\'o}n}}{6}{figure.caption.23}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Certificados auto firmados}}{6}{figure.caption.24}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Certificados firmados por un tercero (Autoridad certificadora)}}{6}{figure.caption.25}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Trama de elemento cifrado}}{6}{figure.caption.26}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Error 1: Tipo y muestra}}{7}{figure.caption.27}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Error 2: Tipo y muestra}}{8}{figure.caption.29}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Error 3: Tipo y muestra}}{9}{figure.caption.31}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Certificados auto firmados}}{9}{figure.caption.33}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Nivel de configuraci\IeC {\'o}n y mensajes de error}}{9}{figure.caption.34}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Configuraci\IeC {\'o}n y m\IeC {\'o}dulos activados}}{10}{figure.caption.35}
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Muestra de resumen de operaci\IeC {\'o}n del servidor}}{10}{figure.caption.36}
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Resumen de operaci\IeC {\'o}n de servidor}}{11}{figure.caption.38}
+\contentsline {figure}{\numberline {1.20}{\ignorespaces Resumen de errores del servidor}}{12}{figure.caption.40}
